@@ -1,5 +1,5 @@
 <?php
-/* How to email input form a live contact form to your desired email address through a SMTP and Gmail account. */
+/* Email input from a live contact form to your desired email address through a SMTP and access to your Gmail account of choice. */
 
 $msg = '';
 if (array_key_exists('email', $_POST)) {
