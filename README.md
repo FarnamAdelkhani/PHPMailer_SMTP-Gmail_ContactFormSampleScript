@@ -19,12 +19,12 @@ https://support.google.com/accounts/a...
 Download the code from my Github:
 https://github.com/FarnamAdelkhani/PH...
 
-1:51 - Download PHPMailer
-5:01 -  Edit your index.html to index.php
-6:50 - Open up SMTP ports
-7:50 - Edit Gmail preferences
-9:08 - Generating an APP password
-9:50 - Update/Edit HTML
-13:10 - Update/Edit PHP
-17:00 - *Important* -- Adding JS alert (Pop-up Notification)
-23:00 - Testing
+1:51 - Download PHPMailer<br>
+5:01 -  Edit your index.html to index.php<br>
+6:50 - Open up SMTP ports<br>
+7:50 - Edit Gmail preferences<br>
+9:08 - Generating an APP password<br>
+9:50 - Update/Edit HTML<br>
+13:10 - Update/Edit PHP<br>
+17:00 - *Important* -- Adding JS alert (Pop-up Notification)<br>
+23:00 - Testing<br>
