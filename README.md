@@ -1,9 +1,9 @@
 # PHPMailer_SMTP-Gmail_ContactFormSampleScript
-Send Email From a Contact Form to Your GMail with PHPMailer and SMTP
+Send Email From a Contact Form to Your GMail with PHPMailer and SMTP.
 
 You can watch the video here: https://www.youtube.com/watch?v=4x-z5WaXJ68&t=246s
 
-If you're no longer able to use your localhost to forward contact form data, try using PHPMailer to send email to your preferred destination through an intermediary simple mail transfer protocol (SMTP).
+If you're no longer able to use your localhost to forward contact form data, try using PHPMailer to send email to your preferred destination through an intermediary simple mail transfer protocol (SMTP).<br>
 * As always, I recommend watching my videos at 1.25x or 1.50x * =)
 
 Links:
@@ -16,8 +16,6 @@ https://www.namecheap.com/support/kno...
 - Obtain an APP password
 https://support.google.com/accounts/a...
 
-Download the code from my Github:
-https://github.com/FarnamAdelkhani/PH...
 
 1:51 - Download PHPMailer<br>
 5:01 -  Edit your index.html to index.php<br>
